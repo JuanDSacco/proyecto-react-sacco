@@ -1,16 +1,16 @@
-#Proyecto *ecommerce* Tienda Strix
+<h1> Proyecto ecommerce Tienda Strix </h1>
 
-##Introducción a los objetivos:
+<h2>Introducción a los objetivos</h2>
 Cree el proyecto en base a los conceptos solicitados por CoderHouse, plataforma en la cual estudie Desarrollo Frontend, terminando la cursada (ReactJs) con este proyecto final. 
 En ésta App cree los componentes necesarios para tener una página funcional, en lo que a React implica, sin darle demasiada importancia el estilo CSS.
 El proyecto contiene datos en detalle de todos los productos y funcionabilidad de ecommerce, conectada a una base de datos (en esta oportunidad utilice Firebase) permitiendo enviar datos desde la app hacia Firestore y desde Firestore almacenar datos de stock para utilizar en la app.  
 
-###Librerias:
+<h3>Librerias:</h3>
 React-router-dom 
 
-###Almacenamiento en base de datos NoSQL, Firebase, Firestore. 
+<h3>Almacenamiento en base de datos NoSQL, Firebase, Firestore. </h3>
 
-###Lista de componentes: 
+<h3>Lista de componentes: </h3>
 
 *Dentro de la carpeta src, se encuentran 4 carpetas (assets, components, context y firebase)*
 
