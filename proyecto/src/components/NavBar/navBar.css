@@ -1,0 +1,31 @@
+.home {
+    font-size: 20px;
+    background-color: rgb(228, 120, 20);
+    display: flex;
+}
+
+.prod  {
+    font-size: 20px;
+    background-color: rgb(228, 120, 20);
+    text-align: center;
+    display: flex;
+}
+
+.moni {
+    font-size: 20px;
+    background-color: rgb(228, 120, 20);
+    display: flex;
+}
+
+.placa {
+    font-size: 20px;
+    background-color: rgb(228, 120, 20);
+    display: flex;
+}
+
+
+.ul{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
